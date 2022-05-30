@@ -12,7 +12,7 @@ namespace Exercise5
            Console.WriteLine("Enter a Big Number");
            string BigNum = Console.ReadLine();
 
-           Console.WriteLine($"Enter a digit");
+           Console.WriteLine("Enter a digit");
            int Digit = Convert.ToInt32(Console.ReadLine());
 
            for(int i=0 ; i<BigNum.Length ; i++)
