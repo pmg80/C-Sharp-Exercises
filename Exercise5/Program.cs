@@ -7,6 +7,7 @@ namespace Exercise5
     {
         static void Main(string[] args)
         {
+            
            byte Counter = 0;
 
            Console.WriteLine("Enter a Big Number");
