@@ -18,7 +18,7 @@ namespace Exercise5
 
            for(int i=0 ; i<BigNum.Length ; i++)
            {
-              int sub = Convert.ToInt32(BigNum.Substring(i , 1));
+              long sub = Convert.ToInt64(BigNum.Substring(i , 1));
               if ( sub == Digit)
               {
                   Counter++;
@@ -27,6 +27,6 @@ namespace Exercise5
            Console.WriteLine($"Your digit has been repeated {Counter} times");
            
 
+        }
     }
-}
 }
