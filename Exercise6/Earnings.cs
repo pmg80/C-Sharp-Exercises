@@ -25,7 +25,6 @@ namespace Exercise6
             set { _name = value; }
         }
        
-       
         // public Earnings(string name , int hours , int salary)
         // {
         //     this.Hours = hours;

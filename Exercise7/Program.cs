@@ -4,6 +4,7 @@ namespace Hangman
 {
     public class Program
     {
+        
         public static void Main(string[] args)
         {
             string[] names = new string[]{"apple" , "banana" , "orange" , "pineapple" , "kiwi" , "plum" } ;

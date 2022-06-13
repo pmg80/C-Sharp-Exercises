@@ -22,7 +22,7 @@ namespace Exercise6
                 
                 int salary = Convert.ToInt32(Console.ReadLine());
 
-                Hoghogh.Add(new Earnings{Name= name , Hours = hours , Salary = salary});
+                Hoghogh.Add(new Earnings{Name = name , Hours = hours , Salary = salary});
 
 
                 if (Hoghogh[i].Salary == 0)

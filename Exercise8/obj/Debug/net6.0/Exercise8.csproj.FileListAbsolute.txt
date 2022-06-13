@@ -1,0 +1,15 @@
+C:\Users\Rpipc\Desktop\C#\Exercises\Exercise8\obj\Debug\net6.0\Exercise8.csproj.AssemblyReference.cache
+C:\Users\Rpipc\Desktop\C#\Exercises\Exercise8\obj\Debug\net6.0\Exercise8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rpipc\Desktop\C#\Exercises\Exercise8\obj\Debug\net6.0\Exercise8.AssemblyInfoInputs.cache
+C:\Users\Rpipc\Desktop\C#\Exercises\Exercise8\obj\Debug\net6.0\Exercise8.AssemblyInfo.cs
+C:\Users\Rpipc\Desktop\C#\Exercises\Exercise8\obj\Debug\net6.0\Exercise8.csproj.CoreCompileInputs.cache
+C:\Users\Rpipc\Desktop\C#\Exercises\Exercise8\bin\Debug\net6.0\Exercise8.exe
+C:\Users\Rpipc\Desktop\C#\Exercises\Exercise8\bin\Debug\net6.0\Exercise8.deps.json
+C:\Users\Rpipc\Desktop\C#\Exercises\Exercise8\bin\Debug\net6.0\Exercise8.runtimeconfig.json
+C:\Users\Rpipc\Desktop\C#\Exercises\Exercise8\bin\Debug\net6.0\Exercise8.dll
+C:\Users\Rpipc\Desktop\C#\Exercises\Exercise8\bin\Debug\net6.0\Exercise8.pdb
+C:\Users\Rpipc\Desktop\C#\Exercises\Exercise8\obj\Debug\net6.0\Exercise8.dll
+C:\Users\Rpipc\Desktop\C#\Exercises\Exercise8\obj\Debug\net6.0\refint\Exercise8.dll
+C:\Users\Rpipc\Desktop\C#\Exercises\Exercise8\obj\Debug\net6.0\Exercise8.pdb
+C:\Users\Rpipc\Desktop\C#\Exercises\Exercise8\obj\Debug\net6.0\Exercise8.genruntimeconfig.cache
+C:\Users\Rpipc\Desktop\C#\Exercises\Exercise8\obj\Debug\net6.0\ref\Exercise8.dll
