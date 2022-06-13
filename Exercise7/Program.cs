@@ -7,7 +7,7 @@ namespace Hangman
         
         public static void Main(string[] args)
         {
-            string[] names = new string[]{"apple" , "banana" , "orange" , "pineapple" , "kiwi" , "plum" } ;
+            string[] names = new string[]{"apple" , "banana" , "orange" , "pineapple" , "kiwi" , "plum" , "cucumber"} ;
             Random rnd = new Random();
             int index = rnd.Next(names.Length);
             string Holder = names[index];
