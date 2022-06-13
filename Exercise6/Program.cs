@@ -10,11 +10,11 @@ namespace Exercise6
             List<Earnings> Hoghogh = new List<Earnings>();
             for (int i = 0 ; i < 5 ; i++)
             {
-                System.Console.WriteLine("Enter the name of the employee:");
+                System.Console.WriteLine("Enter the name of the employee: ");
 
                 var name =Console.ReadLine();
 
-                System.Console.WriteLine("Enter the employee's salary:");
+                System.Console.WriteLine("Enter the employee's salary: ");
 
                 int hours = Convert.ToInt32(Console.ReadLine());
 
