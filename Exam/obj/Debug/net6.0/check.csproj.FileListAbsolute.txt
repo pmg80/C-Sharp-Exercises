@@ -1,0 +1,15 @@
+C:\Users\Rpipc\Desktop\C#\check\bin\Debug\net6.0\check.exe
+C:\Users\Rpipc\Desktop\C#\check\bin\Debug\net6.0\check.deps.json
+C:\Users\Rpipc\Desktop\C#\check\bin\Debug\net6.0\check.runtimeconfig.json
+C:\Users\Rpipc\Desktop\C#\check\bin\Debug\net6.0\check.dll
+C:\Users\Rpipc\Desktop\C#\check\bin\Debug\net6.0\check.pdb
+C:\Users\Rpipc\Desktop\C#\check\obj\Debug\net6.0\check.csproj.AssemblyReference.cache
+C:\Users\Rpipc\Desktop\C#\check\obj\Debug\net6.0\check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rpipc\Desktop\C#\check\obj\Debug\net6.0\check.AssemblyInfoInputs.cache
+C:\Users\Rpipc\Desktop\C#\check\obj\Debug\net6.0\check.AssemblyInfo.cs
+C:\Users\Rpipc\Desktop\C#\check\obj\Debug\net6.0\check.csproj.CoreCompileInputs.cache
+C:\Users\Rpipc\Desktop\C#\check\obj\Debug\net6.0\check.dll
+C:\Users\Rpipc\Desktop\C#\check\obj\Debug\net6.0\refint\check.dll
+C:\Users\Rpipc\Desktop\C#\check\obj\Debug\net6.0\check.pdb
+C:\Users\Rpipc\Desktop\C#\check\obj\Debug\net6.0\check.genruntimeconfig.cache
+C:\Users\Rpipc\Desktop\C#\check\obj\Debug\net6.0\ref\check.dll
