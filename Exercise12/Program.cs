@@ -8,6 +8,5 @@
             Chart obj = new Chart();
             obj.Play();
         }
-        
     }
 }
